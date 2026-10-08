@@ -1,4 +1,4 @@
-:HL["/pqrsdf/_next/static/chunks/09i3expleoxey.css","style"]
+:HL["/pqrsdf/_next/static/chunks/3vws0na2xmrt7.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"tendencia","h":96,"c":"$Q2"}]]
-0:{"b":"cM1eyOEklw-eJmZcP7qIu","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"BDn6Y1uUDEuXDxbjrXvOb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

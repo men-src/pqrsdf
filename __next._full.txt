@@ -1,26 +1,29 @@
 1:"$Sreact.fragment"
 2:"/pqrsdf/_next/static/chunks/0umf92h1sb77c.js"
-3:"/pqrsdf/_next/static/chunks/3b8h527waqo1r.js"
-4:"/pqrsdf/_next/static/chunks/3z0_hy732azax.js"
-5:I[44636,["$2","$3","$4"],"Proveedores"]
-6:"$Sreact.suspense"
-7:I[72900,["$2","$3","$4"],"TableroProvider"]
-8:I[32655,["$2","$3","$4"],"Cascaron"]
-9:I[39756,["$2","$3","$4"],"default"]
-a:I[37457,["$2","$3","$4"],"default"]
-c:"/pqrsdf/_next/static/chunks/1cmr7th4_xdz-.js"
-d:"/pqrsdf/_next/static/chunks/1j-1gwps5wu_6.js"
-e:I[95839,["$2","$3","$4","$c","$d"],"PaginaResumen"]
-f:I[97367,["$2","$3","$4"],"OutletBoundary"]
-11:"ViewportBoundary"
-12:I[97367,["$2","$3","$4"],"$11"]
-14:"MetadataBoundary"
+3:"/pqrsdf/_next/static/chunks/1zamqnppuc433.js"
+4:"/pqrsdf/_next/static/chunks/14kb24i28a1kc.js"
+5:I[79520,["$2","$3","$4"],""]
+6:"SCRIPT_TEMA_INICIAL"
+7:I[18403,["$2","$3","$4"],"$6"]
+8:I[44636,["$2","$3","$4"],"Proveedores"]
+9:"$Sreact.suspense"
+a:I[72900,["$2","$3","$4"],"TableroProvider"]
+b:I[32655,["$2","$3","$4"],"Cascaron"]
+c:I[39756,["$2","$3","$4"],"default"]
+d:I[37457,["$2","$3","$4"],"default"]
+f:"/pqrsdf/_next/static/chunks/1ccuis-a4kpn8.js"
+10:"/pqrsdf/_next/static/chunks/2_fuzy7fshlo5.js"
+11:I[95839,["$2","$3","$4","$f","$10"],"PaginaResumen"]
+12:I[97367,["$2","$3","$4"],"OutletBoundary"]
+14:"ViewportBoundary"
 15:I[97367,["$2","$3","$4"],"$14"]
-17:I[68027,["$2","$3","$4"],"default",1]
-:HL["/pqrsdf/_next/static/chunks/09i3expleoxey.css","style"]
-b:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Le",null,{}],[["$","script","script-0",{"src":"/pqrsdf/_next/static/chunks/1cmr7th4_xdz-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/pqrsdf/_next/static/chunks/1j-1gwps5wu_6.js","async":true,"nonce":"$undefined"}]],["$","$Lf",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":false,"v":null}}]]
-0:{"P":null,"c":["",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/pqrsdf/_next/static/chunks/09i3expleoxey.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/pqrsdf/_next/static/chunks/0umf92h1sb77c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/pqrsdf/_next/static/chunks/3b8h527waqo1r.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/pqrsdf/_next/static/chunks/3z0_hy732azax.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"es","className":"h-full antialiased","children":["$","body",null,{"className":"min-h-full bg-background font-sans text-foreground","children":["$","$L5",null,{"children":["$","$6",null,{"fallback":null,"children":["$","$L7",null,{"children":["$","$L8",null,{"children":["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L12",null,{"children":"$L13"}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$6",null,{"name":"Next.Metadata","children":"$L16"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$17",[["$","link","0",{"rel":"stylesheet","href":"/pqrsdf/_next/static/chunks/09i3expleoxey.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"cM1eyOEklw-eJmZcP7qIu"}
-13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-18:I[27201,["$2","$3","$4"],"IconMark"]
-10:null
-16:[["$","title","0",{"children":"Tablero PQRSDF"}],["$","meta","1",{"name":"description","content":"Peticiones, quejas, reclamos, sugerencias, denuncias y felicitaciones del Ministerio de Educación Nacional: oportunidad de respuesta por mes de vencimiento, dependencia, grupo y tipo de requerimiento."}],["$","link","2",{"rel":"icon","href":"/pqrsdf/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L18","3",{}]]
+17:"MetadataBoundary"
+18:I[97367,["$2","$3","$4"],"$17"]
+1a:I[68027,["$2","$3","$4"],"default",1]
+:HL["/pqrsdf/_next/static/chunks/3vws0na2xmrt7.css","style"]
+e:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L11",null,{}],[["$","script","script-0",{"src":"/pqrsdf/_next/static/chunks/1ccuis-a4kpn8.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/pqrsdf/_next/static/chunks/2_fuzy7fshlo5.js","async":true,"nonce":"$undefined"}]],["$","$L12",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":false,"v":null}}]]
+0:{"P":null,"c":["",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/pqrsdf/_next/static/chunks/3vws0na2xmrt7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/pqrsdf/_next/static/chunks/0umf92h1sb77c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/pqrsdf/_next/static/chunks/1zamqnppuc433.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/pqrsdf/_next/static/chunks/14kb24i28a1kc.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"es","className":"h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","$L5",null,{"id":"tema-inicial","strategy":"beforeInteractive","children":"$7"}]}],["$","body",null,{"className":"min-h-full bg-background font-sans text-foreground","children":["$","$L8",null,{"children":["$","$9",null,{"fallback":null,"children":["$","$La",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]}]]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$9",null,{"name":"Next.Metadata","children":"$L19"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1a",[["$","link","0",{"rel":"stylesheet","href":"/pqrsdf/_next/static/chunks/3vws0na2xmrt7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BDn6Y1uUDEuXDxbjrXvOb"}
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["$2","$3","$4"],"IconMark"]
+13:null
+19:[["$","title","0",{"children":"Informe General de PQRSDF"}],["$","meta","1",{"name":"description","content":"Peticiones, quejas, reclamos, sugerencias, denuncias y felicitaciones del Ministerio de Educación Nacional: oportunidad de respuesta por mes de vencimiento, dependencia, grupo y tipo de requerimiento."}],["$","link","2",{"rel":"icon","href":"/pqrsdf/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1b","3",{}]]
