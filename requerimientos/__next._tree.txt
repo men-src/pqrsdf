@@ -1,7 +1,7 @@
-:HL["/pqrsdf/_next/static/chunks/3hvc98lvtvvjz.css","style"]
+:HL["/pqrsdf/_next/static/chunks/1wi_27__sf89j.css","style"]
 :HL["/pqrsdf/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/pqrsdf/api/v1/dimensiones.json","fetch",{"crossOrigin":"anonymous"}]
 :HL["/pqrsdf/api/v1/vencimiento/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"requerimientos","h":96,"c":"$Q2"}]]
-0:{"b":"3AHzf6SFuCW8wIM-fyaSM","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"6xcUTApgFhy8kKXVb_TCj","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
